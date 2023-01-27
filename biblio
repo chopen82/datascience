@@ -22,6 +22,7 @@ conda install -c anaconda pytest
 conda install -c anaconda unittest2
 conda install -c anaconda flask
 conda install -c conda-forge tabula-py
+conda install -c conda-forge tabulate
 conda install -c conda-forge altair
 conda install -c bokeh bokeh
 conda install -c plotly plotly
