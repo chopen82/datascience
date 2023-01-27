@@ -1,0 +1,21 @@
+pip install NumPy
+pip install Keras
+pip install Pandas
+pip install PyTorch
+pip install SciPy
+pip install Scikit-Learn
+pip install TensorFlow
+pip install Matplotlib
+pip install Seaborn
+pip install Theano
+pip install OpenCV
+pip install Mahotas
+pip install SimpleITK
+pip install Pillow
+pip install Requests
+pip install Beautiful Soup
+pip install Selenium
+pip install ScraPy
+pip install PyTest
+pip install PyUnit
+pip install 
