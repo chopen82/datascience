@@ -1,3 +1,5 @@
+conda config --set channel_priority false
+
 conda install -c anaconda numpy
 conda install -c conda-forge keras
 conda install -c anaconda pandas
