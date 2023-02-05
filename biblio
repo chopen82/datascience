@@ -1,4 +1,6 @@
 conda config --set channel_priority false
+conda install -n base -c conda-forge jupyterlab_widgets
+conda install -n penv -c conda-forge ipywidgets
 
 conda install -c anaconda numpy
 conda install -c conda-forge keras
