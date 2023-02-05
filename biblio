@@ -29,3 +29,6 @@ conda install -c plotly plotly
 conda install -c anaconda statsmodels
 conda install -c anaconda networkx
 conda install -c conda-forge pypdf2
+
+conda install -c conda-forge transformers
+conda install -c sclare gradio
